@@ -14,7 +14,7 @@ Please also refer to our blog post for more details:
 ## Copyright and License
 
 ```
-Copyright 2012 Aphid Mobile
+Copyright 2012 Aphid Mobile 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
